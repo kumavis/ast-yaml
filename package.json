@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "esprima": "^2.6.0",
+    "esprima": "^4.0.0",
     "js-yaml": "^3.4.2",
     "treeify": "^1.0.1"
   }
